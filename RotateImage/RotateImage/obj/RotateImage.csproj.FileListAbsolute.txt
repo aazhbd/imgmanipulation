@@ -1,0 +1,8 @@
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\RotateImage.exe
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\RotateImage.pdb
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\bin\Debug\RotateImage.exe
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\RotateImage.Form1.resources
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\RotateImage.Properties.Resources.resources
+E:\Documents\Programming\Dot Net Programs\RotateImage\RotateImage\obj\Debug\RotateImage.csproj.GenerateResource.Cache

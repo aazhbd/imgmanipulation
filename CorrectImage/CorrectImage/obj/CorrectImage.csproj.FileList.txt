@@ -1,0 +1,8 @@
+bin\Debug\CorrectImage.exe
+bin\Debug\CorrectImage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CorrectImage.Form1.resources
+obj\Debug\CorrectImage.Properties.Resources.resources
+obj\Debug\CorrectImage.csproj.GenerateResource.Cache
+obj\Debug\CorrectImage.exe
+obj\Debug\CorrectImage.pdb
